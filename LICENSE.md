@@ -1,4 +1,4 @@
-# 
+# 高级 Affinity Designer 工作流 Mac OS版 | 开源 Affinity Designer 工作流 PC Windows版。集成 涂抹工具 和 曲线调整，跨平台性能最大化。
 
 
 
